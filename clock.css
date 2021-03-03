@@ -1,0 +1,23 @@
+body {
+    background:crimson;
+}
+h1{
+    color: bisque;
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Orbitron', sans-serif;    
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color:yellowgreen;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;    
+    letter-spacing: 7px;
+
+}
+div{
+    border:solid 5px red;
+}
